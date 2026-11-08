@@ -1,0 +1,11 @@
+.DS_Store
+**/.dart_tool/
+**/build/
+**/.flutter-plugins-dependencies
+**/coverage/
+**/.idea/
+**/.vscode/
+**/ios/Flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
